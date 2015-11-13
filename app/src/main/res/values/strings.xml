@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirstTry</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_title">Bank Messaging App</string>
+    <string name="email_message">Enter your email</string>
+    <string name="memberid_message">Enter your member ID</string>
+    <string name="password_message">Enter your password</string>
+    <string name="button_send">Sign up</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+</resources>
